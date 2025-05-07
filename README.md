@@ -44,7 +44,7 @@ BicycleDemandForecast\_Project/
 1. **리포지터리 클론**
 
    ```bash
-   git clone https://github.com/yourusername/BicycleDemandForecast_Project.git
+   git clone https://github.com/aeeun-git/BicycleDemandForecast_Project.git
    cd BicycleDemandForecast_Project
     ```
 
