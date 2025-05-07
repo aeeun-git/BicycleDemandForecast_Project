@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 **Bicycle Demand Forecast**은 여의나루역 1번출구 앞 공공자전거 대여 이력과 기상, 공휴일 데이터를 결합하여 LSTM+Attention 모델로 시간별 대여 수요를 예측하는 딥러닝 프로젝트입니다.  
-코드가 하나의 스크립트('Bicycle demand forecast.py')에 통합되어 있고, 모든 데이터 파일은 'data/' 폴더에 함께 위치합니다.
 
 ---
 
