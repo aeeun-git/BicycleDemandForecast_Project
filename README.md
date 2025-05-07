@@ -32,7 +32,6 @@ BicycleDemandForecast\_Project/
 │   ├─ …
 │   └─ weather\_2024\_01-06.csv    # 2024년 상반기 날씨 정보
 ├─ Bicycle demand forecast.py    # 데이터 로드·전처리·모델 정의·학습·평가·시각화 통합 스크립트
-├─ requirements.txt              # 의존성 목록
 └─ README.md                     # 프로젝트 소개 및 실행 가이드
 
 ```
@@ -48,7 +47,7 @@ BicycleDemandForecast\_Project/
    cd BicycleDemandForecast_Project
     ```
 
-2. **가상환경 설정 & 의존성 설치**
+2. **가상환경 설정**
 
    ```bash
    python -m venv .venv
@@ -56,8 +55,6 @@ BicycleDemandForecast\_Project/
    .venv\Scripts\activate
    # macOS/Linux
    source .venv/bin/activate
-
-   pip install -r requirements.txt
      ```
 
 3. **데이터 준비**
