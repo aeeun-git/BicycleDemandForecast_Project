@@ -46,7 +46,7 @@ BicycleDemandForecast\_Project/
    ```bash
    git clone https://github.com/yourusername/BicycleDemandForecast_Project.git
    cd BicycleDemandForecast_Project
-  ```
+  ``
 
 2. **가상환경 설정 & 의존성 설치**
 
@@ -58,7 +58,7 @@ BicycleDemandForecast\_Project/
    source .venv/bin/activate
 
    pip install -r requirements.txt
-   ```
+   ``
 
 3. **데이터 준비**
    'data/' 폴더에 공공자전거 대여 이력 CSV 파일(2401\~2406)과 날씨 정보 CSV 파일을 위치시킵니다.
